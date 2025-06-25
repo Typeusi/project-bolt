@@ -27,8 +27,8 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 1,
       name: "Premium Wool Coat",
-      price: 299,
-      originalPrice: 399,
+      price: 299ج,
+      originalPrice: 399ج,
       image: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.8,
       reviews: 124,
@@ -38,7 +38,7 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 2,
       name: "Cashmere Sweater",
-      price: 189,
+      price: 189ج,
       image: "https://images.pexels.com/photos/794062/pexels-photo-794062.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.9,
       reviews: 89,
@@ -48,7 +48,7 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 3,
       name: "Silk Blouse",
-      price: 129,
+      price: 129ج,
       image: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.7,
       reviews: 156,
@@ -57,7 +57,7 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 4,
       name: "Designer Jeans",
-      price: 149,
+      price: 149ج,
       image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.6,
       reviews: 203,
@@ -66,8 +66,8 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 5,
       name: "Leather Jacket",
-      price: 449,
-      originalPrice: 599,
+      price: 449ج,
+      originalPrice: 599ج,
       image: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.9,
       reviews: 67,
@@ -77,7 +77,7 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 6,
       name: "Summer Dress",
-      price: 99,
+      price: 99ج,
       image: "https://images.pexels.com/photos/794062/pexels-photo-794062.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.5,
       reviews: 189,
@@ -87,7 +87,7 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 7,
       name: "Tailored Blazer",
-      price: 249,
+      price: 249ج,
       image: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.8,
       reviews: 95,
@@ -96,7 +96,7 @@ const Products: React.FC<ProductsProps> = ({ onAddToCart, onProductClick }) => {
     {
       id: 8,
       name: "Luxury Handbag",
-      price: 329,
+      price: 329ج,
       image: "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
       rating: 4.9,
       reviews: 112,
