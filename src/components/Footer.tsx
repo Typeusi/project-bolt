@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold">LUXE</h3>
+            <h3 className="text-2xl font-bold">ZEZO</h3>
             <p className="text-gray-400 leading-relaxed">
               Defining contemporary fashion with premium quality and timeless design. Your style, our passion.
             </p>
@@ -64,15 +64,15 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-gray-400" />
-                <span className="text-gray-400">hello@luxe.com</span>
+                <span className="text-gray-400">zezo@luxe.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-gray-400" />
-                <span className="text-gray-400">+1 (555) 123-4567</span>
+                <span className="text-gray-400">+20 01060965014</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-gray-400" />
-                <span className="text-gray-400">New York, NY 10001</span>
+                <span className="text-gray-400">KFR, Cario</span>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-400 text-sm">
-              © {currentYear} LUXE. All rights reserved. | Copyright AbouElezid Hatem
+              © {currentYear} ENG ::ZEZO. All rights reserved. | Copyright Aboelyazzed Hatem
             </div>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-white transition-colors duration-300">

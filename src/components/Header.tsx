@@ -19,11 +19,7 @@ const Header: React.FC<HeaderProps> = ({ cartCount, onCartClick }) => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
-<<<<<<< HEAD
-              
-=======
               Shopping ZEZO
->>>>>>> a0a9525 (update: تعديل جديد على الموقع)
             </h1>
           </div>
 
