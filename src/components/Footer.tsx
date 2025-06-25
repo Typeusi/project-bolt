@@ -82,7 +82,7 @@ const Footer: React.FC = () => {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-400 text-sm">
-              © {currentYear} ENG ::ZEZO. All rights reserved. | Copyright Aboelyazzed Hatem
+              © {currentYear} ENG ::ZEZO All rights reserved. | Copyright Aboelyazzed Hatem
             </div>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-white transition-colors duration-300">
